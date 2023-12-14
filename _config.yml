@@ -1,15 +1,15 @@
 # Site settings
-title: Adam Jaamour
+title: Rizwan Ye
 description: My personal programming website, including my programming experiences, education, past jobs, contact details, and more.
-url: "http://www.adam.jaamour.com" # the base hostname & protocol for your site
+url: "https://rizwanye.github.io/" # the base hostname & protocol for your site
 # baseurl: "" # the subpath of your site, e.g. /blog
 
 # User settings
-username: Adam Jaamour
-email: adam@jaamour.com
+username: Rizwan Ye
+email: test@gmail.com
 
 # Global settings
 icon_size: 58
 
 # Google analytics tracking ID
-google_analytics_tracking_id: UA-116916521-4
+#google_analytics_tracking_id: 
