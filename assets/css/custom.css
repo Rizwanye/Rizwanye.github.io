@@ -5,7 +5,7 @@
 
 /* Create three equal columns that floats next to each other */
 .education-column {
-    float: left;
+    margin: 0 auto;
     width: 33.33%;
     padding: 0px;
 }
