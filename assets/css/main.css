@@ -4548,7 +4548,7 @@ sub, sup {
 
 .header-icons .icon:active, .header-icons .icon:hover {
     color: #1a222c;
-    background: #000000
+    background: #F5F5F5
 }
 
 @media only screen and (min-width: 768px) {
