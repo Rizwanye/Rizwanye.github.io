@@ -58,7 +58,7 @@
     outline: 0;
     display: inline-block;
     padding: 8px;
-    color: white;
+    color: black;
     background-color: #3d516e;
     text-align: center;
     cursor: pointer;
@@ -72,7 +72,7 @@
 }
 
 .github-button-icon {
-    color: white;
+    color: black;
     margin-right: 5px;
 }
 
@@ -99,7 +99,7 @@
 .python-language {
     background: linear-gradient(65deg, transparent 50%, var(--python) 50%) left no-repeat, linear-gradient(0deg, var(--python), var(--python)) 30px 0 no-repeat;
     background-size: 30px 100%, 100% 100%;
-    color: white;
+    color: black;
 }
 
 .javascript-language {
@@ -115,7 +115,7 @@
 .latex-language {
     background: linear-gradient(65deg, transparent 50%, var(--latex) 50%) left no-repeat, linear-gradient(0deg, var(--latex), var(--latex)) 30px 0 no-repeat;
     background-size: 30px 100%, 100% 100%;
-    color: white;
+    color: black;
 }
 
 .java-language {
@@ -131,7 +131,7 @@
 .css-language {
     background: linear-gradient(65deg, transparent 50%, var(--css) 50%) left no-repeat, linear-gradient(0deg, var(--css), var(--css)) 30px 0 no-repeat;
     background-size: 30px 100%, 100% 100%;
-    color: white;
+    color: black;
 }
 
 .swift-language {
@@ -142,7 +142,7 @@
 .c-language {
     background: linear-gradient(65deg, transparent 50%, var(--c) 50%) left no-repeat, linear-gradient(0deg, var(--c), var(--c)) 30px 0 no-repeat;
     background-size: 30px 100%, 100% 100%;
-    color: white;
+    color: black;
 }
 
 .shell-language {
@@ -153,13 +153,13 @@
 .assembly-language {
     background: linear-gradient(65deg, transparent 50%, var(--assembly) 50%) left no-repeat, linear-gradient(0deg, var(--assembly), var(--assembly)) 30px 0 no-repeat;
     background-size: 30px 100%, 100% 100%;
-    color: white;
+    color: black;
 }
 
 .haskell-language {
     background: linear-gradient(65deg, transparent 50%, var(--haskell) 50%) left no-repeat, linear-gradient(0deg, var(--haskell), var(--haskell)) 30px 0 no-repeat;
     background-size: 30px 100%, 100% 100%;
-    color: white;
+    color: black;
 }
 
 .matlab-language {
@@ -170,5 +170,5 @@
 .gdscript-language {
     background: linear-gradient(65deg, transparent 50%, var(--gdscript) 50%) left no-repeat, linear-gradient(0deg, var(--gdscript), var(--gdscript)) 30px 0 no-repeat;
     background-size: 30px 100%, 100% 100%;
-    color: white;
+    color: black;
 }
