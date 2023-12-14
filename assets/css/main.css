@@ -4446,7 +4446,7 @@ sub, sup {
 }
 
 #particles-js {
-    background: #1a222c;
+    background: ##f6f5f5; /* Background of particles */
     display: flex;
     vertical-align: bottom;
     min-height: 100vh;
