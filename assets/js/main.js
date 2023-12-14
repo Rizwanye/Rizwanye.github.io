@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
             },
             color: {
-                value: "#2b6cb0"
+                value: ["#2b6cb0", "#2b6cb0", "#FFA500"]
             },
             shape: {
                 type: "polygon",
