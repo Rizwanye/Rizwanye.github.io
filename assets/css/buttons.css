@@ -129,15 +129,15 @@
 
 /* Button 1 */
 .btn-1 {
-    border: 3px solid #fff;
-    color: #fff;
+    border: 3px solid #000000;
+    color: #000000;
 }
 
 /* Button 1a */
 .btn-1a:hover,
 .btn-1a:active {
     color: #0e83cd;
-    background: #fff;
+    background: #000000;
 }
 
 /* Button 1b */
@@ -146,7 +146,7 @@
     height: 0;
     top: 0;
     left: 0;
-    background: #fff;
+    background: #000000;
 }
 
 .btn-1b:hover,
@@ -165,7 +165,7 @@
     height: 100%;
     top: 0;
     left: 0;
-    background: #fff;
+    background: #000000;
 }
 
 .btn-1c:hover,
@@ -188,7 +188,7 @@
     height: 103%;
     top: 50%;
     left: 50%;
-    background: #fff;
+    background: #000000;
     opacity: 0;
     -webkit-transform: translateX(-50%) translateY(-50%);
     -moz-transform: translateX(-50%) translateY(-50%);
@@ -221,7 +221,7 @@
     height: 0;
     top: 50%;
     left: 50%;
-    background: #fff;
+    background: #000000;
     opacity: 0;
     -webkit-transform: translateX(-50%) translateY(-50%) rotate(45deg);
     -moz-transform: translateX(-50%) translateY(-50%) rotate(45deg);
@@ -254,7 +254,7 @@
     height: 0;
     top: 50%;
     left: 50%;
-    background: #fff;
+    background: #000000;
     opacity: 0;
     -webkit-transform: translateX(-50%) translateY(-50%);
     -moz-transform: translateX(-50%) translateY(-50%);
@@ -280,7 +280,7 @@
 /* Button 2 */
 .btn-2 {
     background: #3d516e;
-    color: #fff;
+    color: #000000;
     box-shadow: 0 6px #2a3754;
     -webkit-transition: none;
     -moz-transition: none;
@@ -448,7 +448,7 @@
 /* Button 3 */
 .btn-3 {
     background: #fcad26;
-    color: #fff;
+    color: #000000;
 }
 
 .btn-3:hover {
@@ -504,7 +504,7 @@
     height: 60px;
     width: 100%;
     line-height: 60px;
-    background: #fff;
+    background: #000000;
     color: #f29e0d;
     border-radius: 10px 10px 0 0;
 }
@@ -520,7 +520,7 @@
 }
 
 .btn-3d:before {
-    background: #fff;
+    background: #000000;
     color: #fcad26;
     z-index: 2;
     border-radius: 10px 0 0 10px;
@@ -529,7 +529,7 @@
 .btn-3d:after {
     width: 20px;
     height: 20px;
-    background: #fff;
+    background: #000000;
     z-index: 1;
     left: 55px;
     top: 50%;
@@ -589,8 +589,8 @@
 /* Button 4 */
 .btn-4 {
     border-radius: 50px;
-    border: 3px solid #fff;
-    color: #fff;
+    border: 3px solid #000000;
+    color: #000000;
     overflow: hidden;
 }
 
@@ -608,7 +608,7 @@
     height: 100%;
     font-size: 125%;
     line-height: 3.5;
-    color: #fff;
+    color: #000000;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
@@ -665,7 +665,7 @@
 /* Button 5 */
 .btn-5 {
     background: #823aa0;
-    color: #fff;
+    color: #000000;
     height: 70px;
     min-width: 260px;
     line-height: 24px;
@@ -744,7 +744,7 @@
 
 /* Button 6 */
 .btn-6 {
-    color: #fff;
+    color: #000000;
     background: #226fbe;
     -webkit-transition: none;
     -moz-transition: none;
@@ -886,7 +886,7 @@
 /* Button 7 */
 .btn-7 {
     background: #17aa56;
-    color: #fff;
+    color: #000000;
     border-radius: 7px;
     box-shadow: 0 5px #119e4d;
     padding: 25px 60px 25px 90px;
@@ -921,19 +921,19 @@
 @-webkit-keyframes fadeOutText {
     0% { color: transparent; }
     80% { color: transparent; }
-    100% { color: #fff; }
+    100% { color: #000000; }
 }
 
 @-moz-keyframes fadeOutText {
     0% { color: transparent; }
     80% { color: transparent; }
-    100% { color: #fff; }
+    100% { color: #000000; }
 }
 
 @keyframes fadeOutText {
     0% { color: transparent; }
     80% { color: transparent; }
-    100% { color: #fff; }
+    100% { color: #000000; }
 }
 
 @-webkit-keyframes moveToRight {
@@ -1041,7 +1041,7 @@
 }
 
 .btn-7c:before {
-    color: #fff;
+    color: #000000;
     z-index: 1;
 }
 
@@ -1088,7 +1088,7 @@
 }
 
 .btn-7d:before {
-    color: #fff;
+    color: #000000;
     z-index: 1;
 }
 
@@ -1192,7 +1192,7 @@
 /* Button 7f */
 .btn-7f:before {
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #fff;
+    -webkit-text-stroke-color: #000000;
 }
 .btn-7f:after {
     position: absolute;
@@ -1333,7 +1333,7 @@
 .btn-success:after,
 .btn-error:after {
     z-index: 1;
-    color: #fff;
+    color: #000000;
     left: 40%;
 }
 
@@ -1742,12 +1742,12 @@
 
 /* Button 8g */
 .btn-8g {
-    background: #fff;
+    background: #000000;
     color: #999;
 }
 
 .btn-8g:active {
-    background: #fff;
+    background: #000000;
 }
 
 .btn-8g:after,
