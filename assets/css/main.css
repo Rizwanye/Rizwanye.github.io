@@ -371,7 +371,7 @@ summary {
 }
 
 .fa-inverse {
-    color: #fff
+    color: #000000
 }
 
 .fa-glass:before {
@@ -4463,7 +4463,7 @@ sub, sup {
     font-family: 'Montserrat', sans-serif;
     z-index: 1;
     text-align: center;
-    color: #fff;
+    color: #000000;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -4476,7 +4476,7 @@ sub, sup {
     font-size: 50px;
     display: block;
     line-height: 1;
-    color: #fff
+    color: #000000
 }
 
 @media only screen and (min-width: 768px) {
@@ -4490,7 +4490,7 @@ sub, sup {
     font-size: 20px;
     display: block;
     line-height: 1;
-    color: #fff;
+    color: #000000;
     margin-top: 10px
 }
 
@@ -4505,7 +4505,7 @@ sub, sup {
 }
 
 .header-links .link {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
     font-size: 15px;
     margin: 10px
@@ -4531,7 +4531,7 @@ sub, sup {
 }
 
 .down, .header-icons .icon {
-    color: #fff;
+    color: #000000;
     text-align: center
 }
 
@@ -4543,12 +4543,12 @@ sub, sup {
     width: 20px;
     font-size: 20px;
     margin: 5px;
-    border: 2px solid #fff
+    border: 2px solid #000000
 }
 
 .header-icons .icon:active, .header-icons .icon:hover {
     color: #1a222c;
-    background: #fff
+    background: #000000
 }
 
 @media only screen and (min-width: 768px) {
@@ -4583,7 +4583,7 @@ sub, sup {
     transform: translate(-50%, -50%);
     width: 100px;
     height: 100px;
-    fill: #fff;
+    fill: #000000;
     -webkit-animation: pulse 1.3s infinite;
     animation: pulse 1.3s infinite
 }
@@ -4648,7 +4648,7 @@ sub, sup {
     background: #1a222c;
     padding: 10px 0;
     text-align: center;
-    color: #fff
+    color: #000000
 }
 
 .footer .love {
@@ -4658,5 +4658,5 @@ sub, sup {
 .footer a {
     text-decoration: none;
     margin: 0;
-    color: #fff
+    color: #000000
 }
