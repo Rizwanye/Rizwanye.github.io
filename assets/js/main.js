@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 random: true,
                 anim: {
                     enable: false,
-                    speed: 4,
+                    speed: 2,
                     size_min: .3,
                     sync: false
                 }
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             move: {
                 enable: true,
-                speed: 3,
+                speed: 2,
                 direction: "none",
                 random: true,
                 straight: false,
@@ -107,10 +107,12 @@ document.addEventListener("DOMContentLoaded", function () {
                     duration: .4
                 },
                 push: {
-                    particles_nb: 3
+                    particles_nb: 3,
+                    speed: 2
                 },
                 remove: {
-                    particles_nb: 2
+                    particles_nb: 2,
+                    speed: 2
                 }
             }
         },
