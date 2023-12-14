@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
             },
             opacity: {
-                value: 1,
+                value: 0.5,
                 random: true,
                 anim: {
                     enable: true,
