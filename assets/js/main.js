@@ -17,13 +17,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
             },
             color: {
-                value: "#ffffff"
+                value: "#2b6cb0"
             },
             shape: {
                 type: "polygon",
                 stroke: {
                     width: 1,
-                    color: "#000000"
+                    color: "#f6f5f5"
                 },
                 polygon: {
                     nb_sides: 6
