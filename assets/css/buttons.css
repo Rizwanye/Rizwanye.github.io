@@ -129,8 +129,8 @@
 
 /* Button 1 */
 .btn-1 {
-    border: 3px solid #000000;
-    color: #000000;
+    border: 3px solid #FFFFFF;
+    color: #FFFFFF;
 }
 
 /* Button 1a */
@@ -146,7 +146,7 @@
     height: 0;
     top: 0;
     left: 0;
-    background: #000000;
+    background: #FFFFFF;
 }
 
 .btn-1b:hover,
@@ -165,7 +165,7 @@
     height: 100%;
     top: 0;
     left: 0;
-    background: #000000;
+    background: #FFFFFF;
 }
 
 .btn-1c:hover,
@@ -188,7 +188,7 @@
     height: 103%;
     top: 50%;
     left: 50%;
-    background: #000000;
+    background: #FFFFFF;
     opacity: 0;
     -webkit-transform: translateX(-50%) translateY(-50%);
     -moz-transform: translateX(-50%) translateY(-50%);
@@ -221,7 +221,7 @@
     height: 0;
     top: 50%;
     left: 50%;
-    background: #000000;
+    background: #FFFFFF;
     opacity: 0;
     -webkit-transform: translateX(-50%) translateY(-50%) rotate(45deg);
     -moz-transform: translateX(-50%) translateY(-50%) rotate(45deg);
@@ -279,9 +279,9 @@
 
 /* Button 2 */
 .btn-2 {
-    background: #3d516e;
+    background: #FFFFFF;
     color: #000000;
-    box-shadow: 0 6px #2a3754;
+    box-shadow: 0 6px #2785e8;
     -webkit-transition: none;
     -moz-transition: none;
     transition: none;
