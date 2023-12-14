@@ -81,10 +81,10 @@ document.addEventListener("DOMContentLoaded", function () {
             events: {
                 onhover: {
                     enable: true,
-                    mode: "grab"
+                    mode: "repulse"
                 }, onclick: {
                     enable: true,
-                    mode: "repulse"
+                    mode: "bubble"
                 },
                 resize: true
             },
