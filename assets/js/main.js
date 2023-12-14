@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     mode: "grab"
                 }, onclick: {
                     enable: true,
-                    mode: "push"
+                    mode: "repulse"
                 },
                 resize: true
             },
