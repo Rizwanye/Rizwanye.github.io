@@ -1,7 +1,7 @@
 # Site settings
 title: Rizwan Ye
 description: My personal programming website, including my programming experiences, education, past jobs, contact details, and more.
-url: "http://www.rizzwan.com" # the base hostname & protocol for your site
+url: "www.rizzwan.com" # the base hostname & protocol for your site
 # baseurl: "" # the subpath of your site, e.g. /blog
 
 # User settings
