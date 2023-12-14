@@ -103,11 +103,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     speed: 3
                 },
                 repulse: {
-                    distance: 400,
+                    distance: 200,
                     duration: .4
                 },
                 push: {
-                    particles_nb: 1
+                    particles_nb: 3
                 },
                 remove: {
                     particles_nb: 2
